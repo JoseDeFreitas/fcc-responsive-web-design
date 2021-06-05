@@ -1,7 +1,7 @@
-# FreeCodeCamp: Responsive Web Design: Projects.
+# freeCodeCamp: Responsive Web Design: Projects.
 ### Made by: [José De Freitas](https://github.com/JoseDeFreitas/).
 
-In this gist I show you the 5 projects made by me to complete the Responsive Web Design course on FreeCodeCamp. The links in the first column will redirect you to each project, hosted and made in [CodePen](https://codepen.io/). The links in the second column will redirect you to the code of each project, into separated folders in this repository.
+In this repository you can find the 5 projects made by me to complete the Responsive Web Design course on freeCodeCamp. The links in the first column will redirect you to each project, hosted and made in [CodePen](https://codepen.io/). The links in the second column will redirect you to the code of each project, separated into individual folders in this repository.
 
 Project view | Project code | Date made
 -------- | -------- | ---------
